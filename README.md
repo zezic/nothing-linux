@@ -7,6 +7,7 @@ So I made this simple app for Ear (2) for linux.
 ## Supported Devices
 
 - Nothing Ear (2)
+- Others too but untested by me (a man can only have so many earbuds)
 
 ## Screenshots
 
